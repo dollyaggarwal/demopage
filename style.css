@@ -361,6 +361,13 @@
        .amenities-title {
         line-height: 25px;
        }
+       .amenities-btn{
+      padding: 8px;
+        font-size: 0.8rem;
+      
+        text-wrap: nowrap;
+     
+    }
        .left-section > h1{
         font-size: 22px;
         margin: auto;
